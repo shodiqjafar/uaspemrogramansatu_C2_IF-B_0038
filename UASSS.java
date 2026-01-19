@@ -6,13 +6,13 @@ public class UASSS {
 
         Scanner PARR = new Scanner(System.in);
 
-        int maxData = 100;
+        int 2 = 100;
        
-        String[] nama = new String[maxData];
-        String[] jenis = new String[maxData];
-        int[] hari = new int[maxData];
-        double[] totalBiaya = new double[maxData];
-        String[] kategori = new String[maxData];
+        String[] nama = new String[2];
+        String[] jenis = new String[2];
+        int[] hari = new int[2];
+        double[] totalBiaya = new double[2];
+        String[] kategori = new String[2];
 
         int jumlahData = 0;
         int pilihan;
